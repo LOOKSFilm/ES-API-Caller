@@ -1,5 +1,7 @@
 *.env
 *.csv
 *.xlsx
+Res/
 Results/
+old/
 venv.venv/
